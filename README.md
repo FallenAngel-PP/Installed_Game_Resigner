@@ -1,6 +1,6 @@
 **This is a tool to resign installed games directly on your headset.**
 
-!!! It is recommended to copy your existing keys from PP Stuff Tool or APKTool_for_5.9.X (Signing_Key_Backup.zip) !!!
+!!! It is recommended to copy your existing keys from PP Stuff Tool or APKTool_for_5.9.X for future game updates (Signing_Key_Backup.zip) !!!
 When you don't have any keys, just click no and a new one will be created
 
 You can get it here: https://github.com/FallenAngel-PP/Installed_Game_Resigner/releases
