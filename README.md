@@ -3,6 +3,8 @@
 !!! It is recommended to copy your existing keys from PP Stuff Tool or APKTool_for_5.9.X (Signing_Key_Backup.zip) !!!
 When you don't have any keys, just click no and a new one will be created
 
+You can get it here: https://github.com/FallenAngel-PP/Installed_Game_Resigner/releases
+
 - **The Process it runs through:**
  - Choosing a game
  - Download game from Headset
